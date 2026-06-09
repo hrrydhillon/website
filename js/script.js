@@ -1,6 +1,6 @@
 const products = [
 { id:1,name:"Nike Shoes",price:5000,image:"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80"},
-{ id:2,name:"U.S. Polo Shirt",price:1800,image:"https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=400&q=80"},
+{ id:2,name:"U.S. Polo T-Shirt",price:1800,image:"https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=400&q=80"},
 { id:3,name:"Luxury Watch",price:12000,image:"https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80"},
 { id:4,name:"Gucci Perfume",price:9000,image:"https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=400&q=80"},
 { id:5,name:"Louis Vuitton Bag",price:25000,image:"https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=400&q=80"},
